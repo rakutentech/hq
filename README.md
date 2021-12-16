@@ -12,6 +12,8 @@ In this work, we propose a jointly learned deep hashing and quantization network
 <img src="training.pdf" width="500">
  </p>
  
+![ScreenShot](./training.pdf)
+
 <p align="center">
   <b>Retrieval</b><br>
   <img src="retrieval.pdf" width="500">
