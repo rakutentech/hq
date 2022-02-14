@@ -30,6 +30,14 @@ python main.py --dataset nuswide --feature_dim 100
 
 
 ### Dataset
-We provide the files to run our method on the <a href="https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html">NUS-WIDE</a> and  <a href="https://press.liacs.nl/researchdownloads/">MIR-Flickr</a> datasets. Due to the size limit, the provided datasets are sampled from the original datasets.
+Due to the size limit, the provided datasets <a href="https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html">NUS-WIDE</a> and  <a href="https://press.liacs.nl/researchdownloads/">MIR-Flickr</a> are not provided in this repository. The data format used in this repository should be: 
+
+xxxx_image.npy stores image raw/pretrained features. it is of size N-by-h-by-w-by-c, where N is the number of samples, h,w, and c are the height, weight and chanel size of the image. 
+
+xxxx_text.npy stores text one-hot embeddings. It is of size N-by-l, where N is the number of samples, l is the vocalbulary size.  
+
+xxxx_label.npy stores label one-hot embeddings. It is of size N-by-k, where N is the number of samples, k is the label size.   
+
+xxxx can be train, test or vali.
 
 
