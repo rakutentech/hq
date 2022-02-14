@@ -20,7 +20,7 @@ We use pretrained AlexNet model for the image backbone. Before running the codes
 cp ./alexnet-owt-4df8aa71.pth /root/.cache/torch/hub/checkpoints/
 ```
 
-to add the pretrained model in the root.
+to add the pretrained model in the root. alexnet-owt-4df8aa71.pth can be downloaded from <a href="https://download.pytorch.org/models/alexnet-owt-4df8aa71.pth">here</a>.
 
 Once you have it, you can run
 
@@ -34,7 +34,7 @@ Due to the size limit, the datasets <a href="https://lms.comp.nus.edu.sg/wp-cont
 
 xxxx_image.npy stores image raw or pretrained features. it is of size N-by-h-by-w-by-c, where N is the number of samples, h,w, and c are the height, width and chanel size of the image. 
 
-xxxx_text.npy stores text one-hot embeddings. It is of size N-by-l, where N is the number of samples, l is the vocalbulary size.  
+xxxx_text.npy stores text one-hot embeddings. It is of size N-by-l, where N is the number of samples, l is the vocabulary size.  
 
 xxxx_label.npy stores label one-hot embeddings. It is of size N-by-k, where N is the number of samples, k is the number of labels.   
 
