@@ -12,7 +12,6 @@ The training and retrieval process are summarized here.
 <p align="center">
   <b>Training</b> <br>
 <img src="./training.png" width="400">
-<img src="./retrieval.png" width="400">
  </p>
 
 
