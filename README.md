@@ -13,6 +13,7 @@ The training and retrieval process are summarized here.
  
 <img src="./training.png" width="350">
 <img src="./retrieval.png" width="350">
+<b>Training</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Retrieval</b><br>
  </p>
  
 
