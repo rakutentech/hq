@@ -9,11 +9,7 @@ In this work, we propose a jointly learned deep hashing and quantization network
 
 The training and retrieval process are summarized here.
 
-
-Training            |  Retrieval
-:-------------------------:|:-------------------------:
-![](./training.png)  |  ![](./retrieval.png)
-
+![alt-text-1](./training.png "Training ") ![alt-text-2](./retrieval.png "Retrieval")
 
 ## Environment Settings
 We use Pytorch as the backend.
