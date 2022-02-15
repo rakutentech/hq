@@ -10,9 +10,9 @@ In this work, we propose a jointly learned deep hashing and quantization network
 The training and retrieval process are summarized here.
 <p align="center">
    <b>Training</b><br>
-<img src="./training.png" width="400">
+<img src="./training.png" width="300">
 <b>Retrieval</b><br>
-  <img src="./retrieval.png" width="400">
+  <img src="./retrieval.png" width="300">
  </p>
 
 
