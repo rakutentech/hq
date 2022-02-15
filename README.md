@@ -11,11 +11,9 @@ The training and retrieval process are summarized here.
 <p align="center">
    <b>Training</b><br>
 <img src="./training.png" width="400">
- </p>
-<p align="center">
-  <b>Retrieval</b><br>
+<b>Retrieval</b><br>
   <img src="./retrieval.png" width="400">
-</p>
+ </p>
 
 
 
