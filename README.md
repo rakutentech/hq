@@ -10,12 +10,17 @@ In this work, we propose a jointly learned deep hashing and quantization network
 The training and retrieval process are summarized here.
 
 <p align="center">
- 
-<img src="./training.png" width="350">
-<img src="./retrieval.png" width="350"><br>
- <b>Training</b>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Retrieval</b><br>
+  <b>Training</b> <br>
+<img src="./training.png" width="400">
+<img src="./retrieval.png" width="400">
  </p>
- 
+
+
+<p align="center">
+  <b>Retrieval</b> <br>
+<img src="./retrieval.png" width="400">
+ </p>
+  
 
 ## Environment Settings
 We use Pytorch as the backend.
